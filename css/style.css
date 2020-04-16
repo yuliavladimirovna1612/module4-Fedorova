@@ -259,9 +259,9 @@ body {
 
 .p3-line {
 	width: 134px;
-	height: 5px;
+	height: 3px;
 	background: #FF2D2D;
-	color: #F2F2F2;
+	border:none;
 }
 
 .p3-list {
@@ -324,9 +324,9 @@ body {
 .p4-line {
 	margin-left: 0;
 	width: 134px;
-	height: 5px;
+	height: 3px;
 	background: #FF2D2D;
-	color: #F2F2F2;
+	border:none;
 }
 
 .team-members {
@@ -464,9 +464,9 @@ body {
 	margin-top: 50px;
 	margin-left: 0;
 	width: 134px;
-	height: 5px;
+	height: 3px;
 	background: #FF2D2D;
-	color: #F2F2F2;
+	border:none;
 }
 
 .feedback-wrapper{
