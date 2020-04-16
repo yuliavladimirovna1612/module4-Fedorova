@@ -259,7 +259,8 @@ body {
 
 .p3-line {
 	width: 134px;
-	color: #FF2D2D;
+	height: 5px;
+	background: #FF2D2D;
 }
 
 .p3-list {
