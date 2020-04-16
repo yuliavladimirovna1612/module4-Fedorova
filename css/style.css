@@ -323,7 +323,8 @@ body {
 .p4-line {
 	margin-left: 0;
 	width: 134px;
-	color: #FF2D2D;
+	height: 5px;
+	background: #FF2D2D;
 }
 
 .team-members {
@@ -461,7 +462,8 @@ body {
 	margin-top: 50px;
 	margin-left: 0;
 	width: 134px;
-	color: #FF2D2D;
+	height: 5px;
+	background: #FF2D2D;
 }
 
 .feedback-wrapper{
